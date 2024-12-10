@@ -687,6 +687,10 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     border-radius:0;
 }
 
+.owl-carousel{
+    overflow: hidden;
+}
+
 /*-------------------------------------
         11. Contact
 --------------------------------------*/
